@@ -18,7 +18,7 @@
     "azure-iot-device": "^1.12.0",
     "azure-iot-device-mqtt": "^1.11.0",
     "debug": "^4.1.1",
-    "handlebars": "^4.4.3"
+    "handlebars": "^4.7.7"
   },
   "devDependencies": {
     "eslint": "^6.5.1",
